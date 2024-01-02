@@ -5,6 +5,8 @@ words.tab
 *.ai
 *.gz
 
+chat/
+
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,emacs,vim,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,emacs,vim,python
